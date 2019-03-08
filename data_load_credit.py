@@ -15,6 +15,12 @@ label_dic = {0: [0, 1],
 
 # Generate training and test sets from TXT file
 def load_data(data_file=DATA_FILE):
+    """
+    credit_card 的前492行是违规数据，后面的4920个是正常数据
+    其中违规的数据分成 400个作训练、92个做测试；正常的4000个作训练，920个做测试；
+    为了平衡违规和正常的数量，违规数据被复制扩增到和正常数据一样的数量，
+    最后有8000个训练样本，1840个测试样本。
+    """
     train_list = []
     test_list = []
     with open(data_file) as f:

@@ -181,7 +181,7 @@ def Main_Process(print_q, analy_q):
         # use to store the test accuracy
         test_accuracy = []
         test_iter = []
-        # ————if need pretrained model,uncomment the next line,and change the model name which you need————
+        # ————if need pre-trained model,uncomment the next line,and change the model name which you need————
         # saver.restore(sess, "models/credit/credit_model120000.ckpt")
         for i in range(20000):
             batch = get_training_data()

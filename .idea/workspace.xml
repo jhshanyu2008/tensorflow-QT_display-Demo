@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adbe1aeb-7f43-4747-ab40-a1bb53db330c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Qt_display/Qt_matplotlib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Qt_display/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Qt_display/display_window_FC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Qt_display/display_window_UI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Qt_display/display_window_UI.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VGG_credit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/credit_card.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/test_credit.tfrecords" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/train_credit.tfrecords" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_load_credit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/checkpoint" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/credit_model11800.ckpt.data-00000-of-00001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/credit_model11800.ckpt.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/credit_model11800.ckpt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VGG_credit.py" beforeDir="false" afterPath="$PROJECT_DIR$/VGG_credit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test_credit.tfrecords" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_credit.tfrecords" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train_credit.tfrecords" beforeDir="false" afterPath="$PROJECT_DIR$/data/train_credit.tfrecords" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_load_credit.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_load_credit.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +21,7 @@
     <SUITE FILE_PATH="coverage/tensorflow_QT_display_Demo$VGG_credit.coverage" NAME="VGG_credit Coverage Results" MODIFIED="1552048029948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tensorflow_QT_display_Demo$display_window_FC.coverage" NAME="display_window_FC Coverage Results" MODIFIED="1552047446635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Qt_display" />
     <SUITE FILE_PATH="coverage/tensorflow_QT_display_Demo$display_window_FC__1_.coverage" NAME="display_window_FC (1) Coverage Results" MODIFIED="1552048654901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Qt_display" />
+    <SUITE FILE_PATH="coverage/tensorflow_QT_display_Demo$data_load_credit.coverage" NAME="data_load_credit Coverage Results" MODIFIED="1552054183761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-841007296">
@@ -44,25 +36,29 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="LICENSE" value="1" />
+          <entry key="md" value="1" />
           <entry key="py" value="26" />
-          <entry key="txt" value="2" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="4" />
           <entry key="Python" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="21" />
-          <entry key="py" value="749" />
+          <entry key="md" value="1262" />
+          <entry key="py" value="912" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="770" />
+          <entry key="Markdown" value="1262" />
+          <entry key="Python" value="933" />
         </counts>
       </usages-collector>
     </session>
@@ -72,8 +68,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/VGG_credit.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="207" column="36" selection-start-line="207" selection-start-column="36" selection-end-line="207" selection-end-column="36" />
+            <state relative-caret-position="187">
+              <caret line="167" column="16" lean-forward="true" selection-start-line="167" selection-start-column="16" selection-end-line="167" selection-end-column="16" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -82,10 +78,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data_load_credit.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="50" column="58" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="646">
+                <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -116,7 +115,6 @@
         <option value="$PROJECT_DIR$/Main.py" />
         <option value="$PROJECT_DIR$/Qt_display/Main.py" />
         <option value="$PROJECT_DIR$/Test_111.py" />
-        <option value="$PROJECT_DIR$/data_load_credit.py" />
         <option value="$PROJECT_DIR$/test_123.py" />
         <option value="$PROJECT_DIR$/12345.py" />
         <option value="$PROJECT_DIR$/Qt_display/display_window_UI.py" />
@@ -134,7 +132,9 @@
         <option value="$PROJECT_DIR$/Qt_display/func_test_FC.py" />
         <option value="$PROJECT_DIR$/Qt_display/func_test_UI.py" />
         <option value="$PROJECT_DIR$/Qt_display/display_window_FC.py" />
+        <option value="$PROJECT_DIR$/data_load_credit.py" />
         <option value="$PROJECT_DIR$/VGG_credit.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -234,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.display_window_FC (1)">
+  <component name="RunManager" selected="Python.data_load_credit">
     <configuration name="VGG_credit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="qtTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -257,7 +257,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="design_dialog_FC" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="data_load_credit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="qtTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -265,12 +265,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Qt_display" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\jhsha\Documents\GitHubWorkFiles\tensorflow-QT_display_Demo\Qt_display\temp\design_dialog_FC.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_load_credit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -348,17 +348,17 @@
     <list>
       <item itemvalue="Python.func_test_main" />
       <item itemvalue="Python.VGG_credit" />
-      <item itemvalue="Python.design_dialog_FC" />
       <item itemvalue="Python.display_window_FC" />
       <item itemvalue="Python.display_window_FC (1)" />
+      <item itemvalue="Python.data_load_credit" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.data_load_credit" />
         <item itemvalue="Python.display_window_FC (1)" />
         <item itemvalue="Python.VGG_credit" />
         <item itemvalue="Python.func_test_main" />
         <item itemvalue="Python.display_window_FC" />
-        <item itemvalue="Python.design_dialog_FC" />
       </list>
     </recent_temporary>
   </component>
@@ -396,13 +396,13 @@
     <frame x="1990" y="-8" width="1538" height="916" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19756427" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19756427" />
       <window_info id="Structure" order="1" weight="0.24985994" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297414" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49558985" weight="0.5326505" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.29907504" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5428937" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Version Control" order="6" />
@@ -441,13 +441,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/Program_Files/Anaconda3/pkgs/spyder-3.2.3-py36h132a2c8_0/Lib/site-packages/spyder/widgets/helperwidgets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1776">
-          <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Program_Files/Anaconda3/Lib/site-packages/eric6/E5Gui/E5MessageBox.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
@@ -658,20 +651,30 @@
     <entry file="file://$PROJECT_DIR$/credit_card.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/data_load_credit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/VGG_credit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="207" column="36" selection-start-line="207" selection-start-column="36" selection-end-line="207" selection-end-column="36" />
+        <state relative-caret-position="187">
+          <caret line="167" column="16" lean-forward="true" selection-start-line="167" selection-start-column="16" selection-end-line="167" selection-end-column="16" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_load_credit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="50" column="58" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="646">
+            <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
