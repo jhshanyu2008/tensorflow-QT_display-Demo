@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adbe1aeb-7f43-4747-ab40-a1bb53db330c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qt_display/Qt_matplotlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qt_display/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qt_display/display_window_FC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qt_display/display_window_UI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qt_display/display_window_UI.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VGG_credit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credit_card.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_credit.tfrecords" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train_credit.tfrecords" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_load_credit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/credit_model11800.ckpt.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/credit_model11800.ckpt.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/credit_model11800.ckpt.meta" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/tensorflow_QT_display_Demo$func_test_main.coverage" NAME="func_test_main Coverage Results" MODIFIED="1552047477124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Qt_display" />
+    <SUITE FILE_PATH="coverage/tensorflow_QT_display_Demo$design_dialog_FC.coverage" NAME="design_dialog_FC Coverage Results" MODIFIED="1552047413696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Qt_display" />
+    <SUITE FILE_PATH="coverage/tensorflow_QT_display_Demo$VGG_credit.coverage" NAME="VGG_credit Coverage Results" MODIFIED="1552048029948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tensorflow_QT_display_Demo$display_window_FC.coverage" NAME="display_window_FC Coverage Results" MODIFIED="1552047446635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Qt_display" />
+    <SUITE FILE_PATH="coverage/tensorflow_QT_display_Demo$display_window_FC__1_.coverage" NAME="display_window_FC (1) Coverage Results" MODIFIED="1552048654901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Qt_display" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-841007296">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="LICENSE" value="1" />
+          <entry key="py" value="26" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="21" />
+          <entry key="py" value="749" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="770" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VGG_credit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="207" column="36" selection-start-line="207" selection-start-column="36" selection-end-line="207" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data_load_credit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="50" column="58" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>analy_q</find>
+      <find>print_q</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HelloWorld.py" />
+        <option value="C:/Program_Files/Anaconda3/Lib/site-packages/PyQt5/QtWidgets.pyi" />
+        <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/Qt_display/Main.py" />
+        <option value="$PROJECT_DIR$/Test_111.py" />
+        <option value="$PROJECT_DIR$/data_load_credit.py" />
+        <option value="$PROJECT_DIR$/test_123.py" />
+        <option value="$PROJECT_DIR$/12345.py" />
+        <option value="$PROJECT_DIR$/Qt_display/display_window_UI.py" />
+        <option value="$PROJECT_DIR$/Qt_display/additional_UI.py" />
+        <option value="$PROJECT_DIR$/Qt_display/Qt_matplotlib.py" />
+        <option value="$PROJECT_DIR$/Qt_display/func_test_window_FC.py" />
+        <option value="$PROJECT_DIR$/Qt_display/func_test_window_UI.py" />
+        <option value="$PROJECT_DIR$/func_display.py" />
+        <option value="$PROJECT_DIR$/Qt_display/design_dialog.py" />
+        <option value="$PROJECT_DIR$/Qt_display/design_dialog_FC.py" />
+        <option value="$PROJECT_DIR$/Qt_display/func_test_common.py" />
+        <option value="$PROJECT_DIR$/Qt_display/test112.py" />
+        <option value="$PROJECT_DIR$/Qt_display/func_test_menu.py" />
+        <option value="$PROJECT_DIR$/Qt_display/func_test_main.py" />
+        <option value="$PROJECT_DIR$/Qt_display/func_test_FC.py" />
+        <option value="$PROJECT_DIR$/Qt_display/func_test_UI.py" />
+        <option value="$PROJECT_DIR$/Qt_display/display_window_FC.py" />
+        <option value="$PROJECT_DIR$/VGG_credit.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1990" />
+    <option name="y" value="-8" />
+    <option name="width" value="1538" />
+    <option name="height" value="916" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8Inspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tensorflow-QT_display_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensorflow-QT_display_Demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensorflow-QT_display_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensorflow-QT_display_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensorflow-QT_display_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensorflow-QT_display_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensorflow-QT_display_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensorflow-QT_display_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Qt_display" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="StandardButton&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Program_Files/Anaconda3/python.exe" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jhsha\Documents\GitHubWorkFiles\tensorflow-QT_display_Demo\Qt_display" />
+      <recent name="C:\Users\jhsha\Documents\GitHubWorkFiles\tensorflow-QT_display_Demo\Qt_display\temp" />
+      <recent name="C:\Users\jhsha\Documents\GitHubWorkFiles\tensorflow-QT_display_Demo" />
+      <recent name="C:\Users\jhsha\Documents\PyCharmWorkFiles\qtTest\Qt_display" />
+      <recent name="C:\Users\jhsha\Documents\PyCharmWorkFiles\qtTest\Qt_display\Copy" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jhsha\Documents\GitHubWorkFiles\tensorflow-QT_display_Demo" />
+      <recent name="C:\Users\jhsha\Documents\PyCharmWorkFiles\qtTest\Qt_display\Copy" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.display_window_FC (1)">
+    <configuration name="VGG_credit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="qtTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VGG_credit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="design_dialog_FC" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="qtTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Qt_display" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\jhsha\Documents\GitHubWorkFiles\tensorflow-QT_display_Demo\Qt_display\temp\design_dialog_FC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="display_window_FC (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="qtTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Qt_display" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Qt_display/display_window_FC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="display_window_FC" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="qtTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Qt_display" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\jhsha\Documents\GitHubWorkFiles\tensorflow-QT_display_Demo\Qt_display\display_window_FC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="func_test_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="qtTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Qt_display" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\jhsha\Documents\GitHubWorkFiles\tensorflow-QT_display_Demo\Qt_display\temp\func_test_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.func_test_main" />
+      <item itemvalue="Python.VGG_credit" />
+      <item itemvalue="Python.design_dialog_FC" />
+      <item itemvalue="Python.display_window_FC" />
+      <item itemvalue="Python.display_window_FC (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.display_window_FC (1)" />
+        <item itemvalue="Python.VGG_credit" />
+        <item itemvalue="Python.func_test_main" />
+        <item itemvalue="Python.display_window_FC" />
+        <item itemvalue="Python.design_dialog_FC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adbe1aeb-7f43-4747-ab40-a1bb53db330c" name="Default" comment="" />
+      <created>1517140735982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517140735982</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_in_test_123_py - 2018.02.02 at 04h 12m 55s.xml">
+      <configuration name="py.test in test_123.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_123_py - 2018.02.02 at 04h 13m 08s.xml">
+      <configuration name="py.test in test_123.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1990" y="-8" width="1538" height="916" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19756427" />
+      <window_info id="Structure" order="1" weight="0.24985994" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297414" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49558985" weight="0.5326505" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29907504" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.31370038" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3297414" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.3297414" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="Event Log" order="4" sideWeight="0.50441015" side_tool="true" weight="0.26162466" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/Program_Files/Anaconda3/pkgs/spyder-3.2.3-py36h132a2c8_0/Lib/site-packages/spyder/widgets/helperwidgets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1776">
+          <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program_Files/Anaconda3/Lib/site-packages/eric6/E5Gui/E5MessageBox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="198" column="20" selection-start-line="198" selection-start-column="20" selection-end-line="198" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program_Files/Anaconda3/pkgs/pyqt-5.6.0-py36hb5ed885_5/Lib/site-packages/PyQt5/QtWidgets.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="2736" column="10" selection-start-line="2736" selection-start-column="10" selection-end-line="2736" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program_Files/Anaconda3/Lib/site-packages/sip.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Program_Files/Anaconda3/pkgs/pyqt-5.6.0-py35hd46907b_5/Lib/site-packages/PyQt5/QtWidgets.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1339">
+          <caret line="6362" column="24" lean-forward="true" selection-start-line="6362" selection-start-column="24" selection-end-line="6362" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program_Files/Anaconda3/Lib/site-packages/PyQt5/QtWidgets.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="6337" column="57" selection-start-line="6337" selection-start-column="57" selection-end-line="6337" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld.py" />
+    <entry file="file://$PROJECT_DIR$/Main.py" />
+    <entry file="file://$PROJECT_DIR$/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Test_111.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-1758287398/builtins.py" />
+    <entry file="file://C:/Program_Files/Anaconda3/envs/python35/Lib/site-packages/tensorflow/python/framework/errors_impl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="472" selection-start-line="472" selection-end-line="472" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program_Files/Anaconda3/envs/python35/Lib/site-packages/tensorflow/python/lib/io/tf_record.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2178">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program_Files/Anaconda3/envs/python35/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="861" selection-start-line="861" selection-end-line="861" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_pytest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program_Files/Anaconda3/envs/python35/Lib/multiprocessing/spawn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program_Files/Anaconda3/envs/python35/Lib/site-packages/matplotlib/axes/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="3055" column="8" selection-start-line="3055" selection-start-column="8" selection-end-line="3055" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program_Files/Anaconda3/envs/python35/Lib/site-packages/matplotlib/backend_bases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="1768" column="15" lean-forward="true" selection-start-line="1768" selection-start-column="15" selection-end-line="1768" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program_Files/Anaconda3/envs/python35/Lib/site-packages/matplotlib/artist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12345.py" />
+    <entry file="file://$PROJECT_DIR$/Qt_display/Ui_func_test_window_UI.py" />
+    <entry file="file://$PROJECT_DIR$/Qt_display/func_test_window_UI.py" />
+    <entry file="file://$PROJECT_DIR$/Qt_display/func_display.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-1758287398/PyQt5/QtHelp.py" />
+    <entry file="file://C:/Program_Files/Anaconda3/envs/python35/Lib/site-packages/PyQt5/QtCore.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="6899" column="8" selection-start-line="6899" selection-start-column="8" selection-end-line="6899" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Qt_display/Ui_design_dialog.py" />
+    <entry file="file://$PROJECT_DIR$/Qt_display/temp/Copy/display_window_FC.py" />
+    <entry file="file://$PROJECT_DIR$/Qt_display/56319575.jpg" />
+    <entry file="file://$PROJECT_DIR$/Qt_display/Ui_func_test_UI.py" />
+    <entry file="file://C:/Program_Files/Anaconda3/envs/python35/Lib/site-packages/PyQt5/QtWidgets.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="4961" column="50" lean-forward="true" selection-start-line="4961" selection-start-column="50" selection-end-line="4961" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program_Files/Anaconda3/envs/python35/Lib/site-packages/PyQt5/QtGui.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="668" column="6" selection-start-line="668" selection-start-column="6" selection-end-line="668" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Qt_display/temp/test_resource_rc.py" />
+    <entry file="file://C:/Program_Files/Anaconda3/envs/python35/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Qt_display/test112.py" />
+    <entry file="file://$PROJECT_DIR$/Qt_display/func_test_menu.py" />
+    <entry file="file://$PROJECT_DIR$/Qt_display/temp/func_test_UI.py" />
+    <entry file="file://C:/Program_Files/Anaconda3/envs/python35/Lib/site-packages/matplotlib/backends/backend_qt5agg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="175" column="6" selection-start-line="175" selection-start-column="6" selection-end-line="175" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Qt_display/temp/design_dialog_FC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Qt_display/temp/func_test_common.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Qt_display/temp/func_test_FC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-523" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Qt_display/temp/func_test_main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Program_Files/Anaconda3/envs/python35/Lib/site-packages/matplotlib/figure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="717">
+          <caret line="275" column="8" selection-start-line="275" selection-start-column="8" selection-end-line="275" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Qt_display/temp/design_dialog.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1758287398/PyQt5/QtWidgets/QMainWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Qt_display/display_window_UI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Qt_display/Qt_matplotlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Qt_display/display_window_FC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="36" lean-forward="true" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit_card.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VGG_credit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="207" column="36" selection-start-line="207" selection-start-column="36" selection-end-line="207" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_load_credit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="50" column="58" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
