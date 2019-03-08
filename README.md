@@ -23,11 +23,11 @@
 > 运行data_load_credit.py中的main函数会自动创建需要的tfrecords.
 main函数之后创建了一个tensorflow的队列，使用两个方法读取tfrecords中的数据。
 ######
-> 主程序是VGG_credit.py,里面仿造tensorflow官网Demo搭了一个简化版VGG16网络，
+> 主程序是VGG_credit.py,可以直接运行，里面仿造tensorflow官网Demo搭了一个简化版VGG16网络，
 具体的细节请参看程序，注解很详细。原来的程序使用matplotlib显示的，
 程序里全部注解掉了，换成了QT界面。
 ######
-> PyQt5 界面使用QT和eric6弄的，matplotlib的QT应用代码参看官方文档
+> 需要PyQt5的包，界面是QT和eric6弄的，matplotlib的QT应用代码参看官方文档。
 ######
 > 为了让跑训练的时候，Qt界面不至于死掉(那种鼠标拖不动的感觉你懂的)，我给训练独立分配了一个线程，
 用两个队列交换数据，Qt里的定时器会定时取出然后打印在界面上。
